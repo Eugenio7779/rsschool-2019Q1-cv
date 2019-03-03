@@ -8,21 +8,27 @@ github: <https://github.com/Eugenio7779>
 
 ### Summary
 
-The graduated developer with a strong technical background and two years of commercial experience. During this time I had a few interesting projects which were completed successfully. I am a motivated and clearly-thinking employee who likes challenges and complex tasks. I am sure if I have an opportunity I will be useful employee for the company.
+For many years working as a managing partner, I have learned how to work in a team and help my employees when necessary. I am sure that I can become a valuable addition to your team and successfully participate in the development of the Front-end.
 
 
 ### Skills
 
-* JavaScript
-* Java SE
 * Html
 * Css
+* JavaScript
 * Git
+* Java SE
 
 
 ### Working Experience
 
-*09.2014 - 10.2018*, **OOO "BDC PRINT"**<br>
+*04.2015 - 11.2018*, **OOO "BDC ELECTRONIC"**<br>
+Position: Managing partner<br>
+Responsibilities: 
+* Сontrol and supervision of all business operations of the enterprise
+* Setting tasks for employees and monitoring performance
+* Signing new customer contracts
+*03.2014 - 04.2015*, **OOO "BDC ELECTRONIC"**<br>
 Position: Sales-manager<br>
 Responsibilities: 
 * Sale services and search for clients.
@@ -40,10 +46,14 @@ Engineer of information technologies and control.
 
 #### Courses
 *February 2014 - April 2014*<br>
-Educational center of Belhard - Java SE Programming
+Educational center of Belhard - Java SE Programming<br>
+*November 2012- January 2013*<br>
+Educational center "Shipalex" - Java programming for beginners<br>
+*November 2011*<br>
+Itransition - course "MongoDB: a new hope"
 
 
 ### Languages
 
 * Russian - native;
-* English – A2.
+* English – A2 (I always practice English while traveling).

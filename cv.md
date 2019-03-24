@@ -27,7 +27,7 @@ Position: Managing partner<br>
 Responsibilities: 
 * Сontrol and supervision of all business operations of the enterprise
 * Setting tasks for employees and monitoring performance
-* Signing new customer contracts
+* Signing new customer contracts<br>
 *03.2014 - 04.2015*, **OOO "BDC ELECTRONIC"**<br>
 Position: Sales-manager<br>
 Responsibilities: 
@@ -45,8 +45,6 @@ Minsk State Higher Radiotechnical College (2006-2011)<br>
 Engineer of information technologies and control.
 
 #### Courses
-*February 2014 - April 2014*<br>
-Educational center of Belhard - Java SE Programming<br>
 *November 2012- January 2013*<br>
 Educational center "Shipalex" - Java programming for beginners<br>
 *November 2011*<br>
